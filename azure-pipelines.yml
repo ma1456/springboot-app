@@ -8,7 +8,7 @@ trigger:
 pool: manoj
 
 steps:
-- task: Maven@4
+- task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
     publishJUnitResults: true
