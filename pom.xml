@@ -8,7 +8,7 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
     <name>MyAwesomeApp</name>
-    <description>SpringBoot Angularjs</description>
+    <description>SpringBoot Angularjs For Testing</description>
  
     <parent>
         <groupId>org.springframework.boot</groupId>
